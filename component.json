@@ -8,7 +8,7 @@
   "dependencies": {
     "component/jquery": ">1.4.2"
   },
-  "fonts": [
+  "images": [
     "images/bg_play_pause.png"
   ],
   "fonts": [
