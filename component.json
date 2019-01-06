@@ -2,7 +2,7 @@
   "name": "flexslider",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UsabilityDynamics/lib-flexslider"
+    "url": "https://github.com/udx/lib-flexslider"
   },
   "version": "2.2.0",
   "dependencies": {
